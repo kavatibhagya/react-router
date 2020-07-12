@@ -39,3 +39,18 @@
 .highlight{
   background-color: aqua;
 }
+.red{
+  height:1000px;
+  width:1000px;
+  background-color: rgb(235, 67, 67);
+}
+.blue{
+  height:800px;
+  width:800px;
+  background-color: rgb(67, 159, 235);
+}
+.green{
+  height:600px;
+  width:600px;
+  background-color: rgb(106, 235, 67);
+}
